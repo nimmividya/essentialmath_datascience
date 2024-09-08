@@ -15,6 +15,7 @@ print(f'2**3 : ',result1)
 # What is the exponent of base 2 1024
 # 2^x = 1024
 
+# 2 raised to what power gives me 1024 ?
 x = math.log(1024, 2)
 
 print(f"The exponent of 2^x is :  {x} which is 2^x = 1024 ")
