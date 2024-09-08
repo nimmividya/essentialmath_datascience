@@ -14,4 +14,4 @@ def find_interest(principle, rate, time ):
     print(f"The amount after {time} years is: ${amount:.2f}")
 
 
-find_interest(1000, 0.05,3 )
+find_interest(100, 0.20,2 )
