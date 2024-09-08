@@ -4,4 +4,8 @@
 
 x = [1,4,6,8]
 n = len(x)
-summation2 = sum(2 * x[i] for i in range(0,n))
+
+# multiply members in x and add all the multipliers
+
+summation = sum(((10*x[i])/2) for i in range(0,n))
+print(summation)
